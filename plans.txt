@@ -13,6 +13,6 @@ PLANS FOR THE WEBSITE:
   a. New situations arise, may need changes.
 
 4. Upgrade the aesthetics and CSS of the website.
-a. The colour palette may need a new makeover
-b. New domain? Need an intuitive url
-c. Text has to be changed as well, font and size.
+  a. The colour palette may need a new makeover
+  b. New domain? Need an intuitive url
+  c. Text has to be changed as well, font and size.
