@@ -1,0 +1,18 @@
+PLANS FOR THE WEBSITE:
+
+1. Learn more JS
+  a. Make website more responsive
+  b. and adaptable to different platforms.
+
+2. Add new section for Portfolio
+  a. Once enough projects done, make new section
+  b. Split it from the Achievements tab
+  c. Make sure to add images.
+
+3. Update contacts if need be
+  a. New situations arise, may need changes.
+
+4. Upgrade the aesthetics and CSS of the website.
+a. The colour palette may need a new makeover
+b. New domain? Need an intuitive url
+c. Text has to be changed as well, font and size.
