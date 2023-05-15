@@ -1,4 +1,4 @@
-# link to operating site: https://bekzportfolio.netlify.app/
+# link to my site: https://bekzportfolio.netlify.app/
 
 THIS IS MY PERSONAL PORTFOLIO WEBSITE
 
