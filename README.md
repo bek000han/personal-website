@@ -1,4 +1,4 @@
-# bek000han.github.io
+# link to operating site: https://bekzportfolio.netlify.app/
 
 THIS IS MY PERSONAL PORTFOLIO WEBSITE
 
@@ -8,3 +8,5 @@ You can view the code as it laid out in my files.
 This is still work in progress and not the final form.
 Currently, expanding on the projects tab and learning more webdev to make it more responsive.
 Mobile experience support coming soon!
+
+https://bekzportfolio.netlify.app/
