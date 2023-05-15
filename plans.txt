@@ -16,3 +16,4 @@ PLANS FOR THE WEBSITE:
   a. The colour palette may need a new makeover
   b. New domain? Need an intuitive url
   c. Text has to be changed as well, font and size.
+
