@@ -1,12 +1,12 @@
-# link to my site: https://bekzportfolio.netlify.app/
+# Personal Portfolio Website
+### Link to site: https://bekzportfolio.netlify.app/
 
-THIS IS MY PERSONAL PORTFOLIO WEBSITE
-
-This repo is used primarily as way to host my website through the means of Github's servers.
-You can view the code as it laid out in my files.
+This repo is used primarily to store the archived code and structure of my website on github.
+You can view the code as it's laid out in my files.
 
 This is still work in progress and not the final form.
-Currently, expanding on the projects tab and learning more webdev to make it more responsive.
+Currently, expanding on the projects tab and researching to make it more responsive.
 Mobile experience support coming soon!
 
+Now hosted on netlify, github pages site is now deprecated.
 https://bekzportfolio.netlify.app/
