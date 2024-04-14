@@ -8,6 +8,3 @@ You can view the code as it's laid out in my files.
 This is still work in progress and not the final form.
 Currently, expanding on the projects tab and researching to make it more responsive.
 Mobile experience support coming soon!
-
-Now hosted on netlify, github pages site is now deprecated.
-https://bekzportfolio.netlify.app/
